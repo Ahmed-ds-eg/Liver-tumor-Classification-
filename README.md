@@ -13,9 +13,12 @@ This project aims to classify liver tumors into three classes: normal, malignant
 * Applied non-local means filter
 ## To run the code:
 
-Install the necessary libraries listed in the requirements.txt file. 
+Install the necessary libraries listed in the requirements.txt file.
+
 Run liver-tumor-classification-using-resnet50.ipynb to train and evaluate the model.
+
 Note: The code assumes that the dataset is organized in the following structure:
+
 
 
 data/
