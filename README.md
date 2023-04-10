@@ -7,6 +7,9 @@ This project aims to classify liver tumors into three classes: normal, malignant
 * TensorFlow
 * NumPy
 * os
+* open CV
+* matplotlib 
+* PIL
 ## Image preprocessing:
 
 * Resized the images to 512x512
